@@ -2,6 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 
 namespace ToDoList
 {
@@ -13,10 +14,9 @@ namespace ToDoList
                               "[2] Show all tasks \n" +
                               "[3] Delete all tasks \n" +
                               "Please, select an option: ");
-            int option = int.Parse(Console.ReadLine());
+            byte option = byte.Parse(Console.ReadLine());
             ActionHandler handler = new ActionHandler();
             handler.checkSelectedOption(option);
-
         }
     }
 }
