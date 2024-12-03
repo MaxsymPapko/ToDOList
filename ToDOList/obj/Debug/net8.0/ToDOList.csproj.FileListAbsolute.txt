@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\ToDOList\ToDOList\bin\Debug\net8.0\ToDOList.exe
+C:\Users\user\RiderProjects\ToDOList\ToDOList\bin\Debug\net8.0\ToDOList.deps.json
+C:\Users\user\RiderProjects\ToDOList\ToDOList\bin\Debug\net8.0\ToDOList.runtimeconfig.json
+C:\Users\user\RiderProjects\ToDOList\ToDOList\bin\Debug\net8.0\ToDOList.dll
+C:\Users\user\RiderProjects\ToDOList\ToDOList\bin\Debug\net8.0\ToDOList.pdb
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.sourcelink.json
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.dll
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\refint\ToDOList.dll
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.pdb
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ToDOList.genruntimeconfig.cache
+C:\Users\user\RiderProjects\ToDOList\ToDOList\obj\Debug\net8.0\ref\ToDOList.dll
